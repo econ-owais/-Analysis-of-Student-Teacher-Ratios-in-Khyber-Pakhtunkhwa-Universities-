@@ -39,7 +39,7 @@ To analyze and visualize:
 
 ## 📈 Sample Visualizations
 
-- ![Sample](images/sample_plot.png) *(Include a screenshot of one HTML plot if possible)*
+- ![Sample](https://github.com/CyberOwaisShah/-Analysis-of-Student-Teacher-Ratios-in-Khyber-Pakhtunkhwa-Universities-/blob/main/Screenshot%202025-05-03%20103937.png)
 
 ---
 
@@ -54,7 +54,7 @@ To analyze and visualize:
 ## 🚀 How to Run
 
 1. Clone this repo.
-2. Install R and required libraries.
+2. Install R and the required libraries.
 3. Run `kpk_analysis.R` to generate the HTML visualizations.
 
 ---
@@ -62,12 +62,8 @@ To analyze and visualize:
 ## 📬 Contact
 
 Created by **Owais Ali Shah**  
-📧 owais.email@example.com *(use your real one or GitHub contact)*  
+📧 owais.ali.shah.econ@gmail.com 
 🎓 Bachelor’s in Economics, BKUC  
 🏆 Aspiring Master's Scholar  
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+ 
