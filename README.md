@@ -1,0 +1,1 @@
+# -Analysis-of-Student-Teacher-Ratios-in-Khyber-Pakhtunkhwa-Universities-
